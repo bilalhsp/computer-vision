@@ -112,7 +112,37 @@
   - Applying a transformation of a degenerate conic to correct both projective and affine distortions.
 
 
-<p align="center">
+<div align="center">
+<table style="border:none; display:inline; width: 40%; text-align: center;"> 
+    <tr>
+    <td style="padding: -10px;">
+        <figure style="margin: 0px 10px; text-align: center;">
+        <img src="./images/hw3/board_1.png" alt="Distorted Image" style="height:150px;">
+        <figcaption>Distorted Image</figcaption>
+    <br>Original Frame</td>
+    <td style="padding: -10px;">
+        <figure style="margin: 0px 10px; text-align: center;">
+        <img src="./images/hw3/board_1-point-to-point.png" alt="Point Matching" style="height:150px;">
+        <figcaption>Point Matching</figcaption>
+    <br>Input Image</td>
+    <td style="padding: -10px;">
+        <figure style="margin: 0px 10px; text-align: center;">
+        <img src="./images/hw3/board_1-two-step-proj.png" alt="Two-Step" style="height:150px;">
+        <figcaption>Two-Step</figcaption>
+        </figure>
+    <br>Projected Image</td>
+    <td style="padding: -10px;">
+        <figure style="margin: 0px 10px; text-align: center;">
+        <img src="./images/hw3/board_1-one-step.png" alt="One-Step" style="height:150px;">
+        <figcaption>One-Step</figcaption>
+        </figure>
+    <br>Projected Image</td>
+  </tr>
+</table>
+</div>
+
+
+<!-- <p align="center">
     <figure style="margin: 0px 10px; text-align: center;">
     <img src="./images/hw3/board_1.png" alt="Distorted Image" style="height:150px;">
     <figcaption>Distorted Image</figcaption>
@@ -130,7 +160,7 @@
     <figcaption>One-Step</figcaption>
   </figure>
 </p>
-<p align="center"><strong>Fig. 3:</strong> Metric Rectification Example</p>
+<p align="center"><strong>Fig. 3:</strong> Metric Rectification Example</p> -->
 
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 0px 10px; text-align: center;">

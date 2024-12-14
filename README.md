@@ -62,6 +62,19 @@
 </div>
 <p align="center"><strong>Fig. 2:</strong> Image Projected Onto Frame Using Homography</p> -->
 
+
+<p align="center">
+    <img src="./images/hw2/img1.png" alt="Original Frame" style="width:150px; margin-right: 20px">
+    <!-- <figcaption>Original Frame</figcaption> -->
+    <img src="./images/hw2/alex_honnold.jpg" alt="Input Image" style="width:150px; margin-bottom: 40px; margin-right: 20px">
+    <!-- <figcaption>Original Frame</figcaption> -->
+    <img src="./images/hw2/projected-image-1a.jpg" alt="Projected Image" style="width:150px;">
+    <!-- <figcaption>Original Frame</figcaption> -->
+</p>
+<p align="center"><strong>Fig. 2:</strong> Image Projected Onto Frame Using Homography</p>
+
+
+
 <div align="center">
 <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 40%; text-align: center;">
   <tr>
@@ -72,6 +85,10 @@
 </table>
 </div>
 <p align="center"><strong>Fig. 2:</strong> Image Projected Onto Frame Using Homography</p>
+
+
+
+
 
 
 <!-- | <img src="./images/hw2/img1.png" alt="Example Image" width="300">

@@ -46,7 +46,7 @@
   - Projecting an image onto a frame in another image using homography.
 
 
-<div style="display: flex; justify-content: center; align-items: flex-start;">
+<!-- <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 0px 20px; text-align: center;">
     <img src="./images/hw2/img1.png" alt="Original Frame" style="width:140px;">
     <figcaption>Original Frame</figcaption>
@@ -60,7 +60,27 @@
     <figcaption>Projected Image</figcaption>
   </figure>
 </div>
+<p align="center"><strong>Fig. 2:</strong> Image Projected Onto Frame Using Homography</p> -->
+
+<div align="center">
+<table style="border: none; width: 40%; text-align: center;">
+  <tr>
+    <td style="padding: -10px;"><img src="./images/hw2/img1.png" alt="Original Frame" style="width:150px;"><br>Original Frame</td>
+    <td style="padding: -10px;"><img src="./images/hw2/alex_honnold.jpg" alt="Input Image" style="width:150px;"><br>Input Image</td>
+    <td style="padding: -10px;"><img src="./images/hw2/projected-image-1a.jpg" alt="Projected Image" style="width:150px;"><br>Projected Image</td>
+  </tr>
+</table>
+</div>
 <p align="center"><strong>Fig. 2:</strong> Image Projected Onto Frame Using Homography</p>
+
+
+<!-- | <img src="./images/hw2/img1.png" alt="Example Image" width="300">
+ <br> Original Frame | ![Input Image](./images/hw2/alex_honnold.jpg) <br> Input Image | ![Projected Image](./images/hw2/projected-image-1a.jpg) <br> Projected Image |
+|:-----------------------------------------------------------:|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
+
+<p align="center"><strong>Fig. 2:</strong> Image Projected Onto Frame Using Homography</p> -->
+
+
 
 
 [View Full Report](./reports/hw2_BilalAhmed.pdf)

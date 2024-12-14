@@ -8,25 +8,30 @@
 - **Laser Aim Game Simulation**  
   - Utilizing homogeneous coordinates to determine whether the aim is correct (indicated by a green color).
 
-<div style="display: flex; justify-content: center; align-items: flex-start;">
+<!-- <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 0px 0px; text-align: center;">
     <img src="./images/hw1/image1.jpg" alt="Original Frame" style="height:150px;">
-    <!-- <figcaption>Original Frame</figcaption> -->
   </figure>
   <figure style="margin: 0px 0px; text-align: center;">
     <img src="./images/hw1/image2.jpg" alt="Input Image" style="height:150px;">
-    <!-- <figcaption>Input Image</figcaption> -->
   </figure>
   <figure style="margin: 0px 0px; text-align: center;">
     <img src="./images/hw1/image3.jpg" alt="Projected Image" style="height:150px;">
-    <!-- <figcaption>Projected Image</figcaption> -->
   </figure>
     <figure style="margin: 0px 0px; text-align: center;">
     <img src="./images/hw1/image4.jpg" alt="Projected Image" style="height:150px;">
-    <!-- <figcaption>Projected Image</figcaption> -->
   </figure>
 </div>
+<p align="center"><strong>Fig. 1:</strong> Laser Aim Simulation</p> -->
+
+<p align="center">
+    <img src="./images/hw1/image1.jpg" alt="Original Frame" style="height:120px; margin-right: 10px;">
+    <img src="./images/hw1/image2.jpg" alt="Input Image" style="height:120px; margin-right: 10px;">
+    <img src="./images/hw1/image3.jpg" alt="Projected Image" style="height:120px; margin-right: 10px;">
+    <img src="./images/hw1/image4.jpg" alt="Projected Image" style="height:120px;">
+</p>
 <p align="center"><strong>Fig. 1:</strong> Laser Aim Simulation</p>
+
 
 
 

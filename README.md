@@ -100,6 +100,13 @@
   - Applying a transformation of a degenerate conic to correct both projective and affine distortions.
 
 
+
+<!-- <pre>       Distorted Image        Point Matching       Two-Step    One-Step</pre> -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Distorted Image&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Point Matching&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Two-Step&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+One-Step
 <p align="center">
     <img src="./images/hw3/board_1.png" alt="Distorted Image" style="height:180px;">
     &nbsp;&nbsp;
@@ -110,6 +117,26 @@
     <img src="./images/hw3/board_1-one-step.png" alt="One-Step" style="height:180px;">
 </p>
 <p align="center"><strong>Fig. 3:</strong> Metric Rectification Example</p>
+
+
+<p align="center">
+    <img src="./images/hw3/board_1.png" alt="Distorted Image" style="height:180px;">
+    &nbsp;&nbsp;
+    <img src="./images/hw3/board_1-point-to-point.png" alt="Point Matching" style="height:180px;">
+    &nbsp;&nbsp;
+    <img src="./images/hw3/board_1-two-step-proj.png" alt="Two-Step" style="height:180px;">
+    &nbsp;&nbsp;
+    <img src="./images/hw3/board_1-one-step.png" alt="One-Step" style="height:180px;">
+</p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Distorted Image&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Point Matching&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Two-Step&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+One-Step
+
+<p align="center"><strong>Fig. 3:</strong> Metric Rectification Example</p>
+
 
 
 

@@ -101,9 +101,12 @@
 
 
 <p align="center">
-    <img src="./images/hw3/board_1.png" alt="Distorted Image" style="height:180px;margin-right:10px;">
-    <img src="./images/hw3/board_1-point-to-point.png" alt="Point Matching" style="height:180px;margin-right:10px;">
-    <img src="./images/hw3/board_1-two-step-proj.png" alt="Two-Step" style="height:180px;margin-right:10px;">
+    <img src="./images/hw3/board_1.png" alt="Distorted Image" style="height:180px;">
+    &nbsp;&nbsp;
+    <img src="./images/hw3/board_1-point-to-point.png" alt="Point Matching" style="height:180px;">
+    &nbsp;&nbsp;
+    <img src="./images/hw3/board_1-two-step-proj.png" alt="Two-Step" style="height:180px;">
+    &nbsp;&nbsp;
     <img src="./images/hw3/board_1-one-step.png" alt="One-Step" style="height:180px;">
 </p>
 <p align="center"><strong>Fig. 3:</strong> Metric Rectification Example</p>

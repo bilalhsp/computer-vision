@@ -63,7 +63,7 @@
 <p align="center"><strong>Fig. 2:</strong> Image Projected Onto Frame Using Homography</p> -->
 
 <div align="center">
-<table style="border: none; width: 40%; text-align: center;">
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; width: 40%; text-align: center;">
   <tr>
     <td style="padding: -10px;"><img src="./images/hw2/img1.png" alt="Original Frame" style="width:150px;"><br>Original Frame</td>
     <td style="padding: -10px;"><img src="./images/hw2/alex_honnold.jpg" alt="Input Image" style="width:150px;"><br>Input Image</td>

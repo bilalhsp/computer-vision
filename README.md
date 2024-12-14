@@ -64,8 +64,8 @@
 
 
 <p align="center">
-    <img src="./images/hw2/img1.png" alt="Original Frame" style="width:150px; margin-right: 20px">
-    <img src="./images/hw2/alex_honnold.jpg" alt="Input Image" style="width:150px; margin-bottom: 40px; margin-right: 20px">
+    <img src="./images/hw2/img1.png" alt="Original Frame" style="width:150px; ">
+    <img src="./images/hw2/alex_honnold.jpg" alt="Input Image" style="width:150px; ">
     <img src="./images/hw2/projected-image-1a.jpg" alt="Projected Image" style="width:150px;">
 </p>
 <p align="center"><strong>Fig. 2:</strong> Image Projected Onto Frame Using Homography</p>
@@ -112,7 +112,25 @@
   - Applying a transformation of a degenerate conic to correct both projective and affine distortions.
 
 
-
+<p align="center">
+    <figure style="margin: 0px 10px; text-align: center;">
+    <img src="./images/hw3/board_1.png" alt="Distorted Image" style="height:150px;">
+    <figcaption>Distorted Image</figcaption>
+  </figure>
+  <figure style="margin: 0px 10px; text-align: center;">
+    <img src="./images/hw3/board_1-point-to-point.png" alt="Point Matching" style="height:150px;">
+    <figcaption>Point Matching</figcaption>
+  </figure>
+  <figure style="margin: 0px 10px; text-align: center;">
+    <img src="./images/hw3/board_1-two-step-proj.png" alt="Two-Step" style="height:150px;">
+    <figcaption>Two-Step</figcaption>
+  </figure>
+  <figure style="margin: 0px 10px; text-align: center;">
+    <img src="./images/hw3/board_1-one-step.png" alt="One-Step" style="height:150px;">
+    <figcaption>One-Step</figcaption>
+  </figure>
+</p>
+<p align="center"><strong>Fig. 3:</strong> Metric Rectification Example</p>
 
 <div style="display: flex; justify-content: center; align-items: flex-start;">
   <figure style="margin: 0px 10px; text-align: center;">
